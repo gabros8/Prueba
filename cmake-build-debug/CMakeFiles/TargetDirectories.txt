@@ -1,0 +1,3 @@
+C:/Users/maryt/OneDrive/Documentos/ESCOM/Computer_Graphics/Practica2/cmake-build-debug/CMakeFiles/Practica2.dir
+C:/Users/maryt/OneDrive/Documentos/ESCOM/Computer_Graphics/Practica2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maryt/OneDrive/Documentos/ESCOM/Computer_Graphics/Practica2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
